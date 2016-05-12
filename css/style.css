@@ -1,0 +1,24 @@
+/* 
+
+
+/* Typography */
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
+body {
+	font-family: 'Karla', sans-serif;
+}
+
+h1 {
+	border-top: 1px black solid;
+}
+
+p {
+	font-size: 2.4rem; /* 10*1.6 = 16px font size */
+	color: hsla(270, 4%, 25%, 1);
+}
+
+.caps {
+
+}
+
+

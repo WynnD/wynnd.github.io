@@ -8,11 +8,14 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <!-- Basic Page Needs\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <meta charset=\"utf-8\">\n    <title>Wynn Drahorad</title>\n    <meta name=\"description\" content=\"Wynn Drahorad\">\n    <meta name=\"author\" content=\"Wynn Drahorad\">\n\n    <!-- Mobile Specific Metas\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <!-- FONT\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <link href=\"https://fonts.googleapis.com/css?family=Raleway:400,300,600\" rel=\"stylesheet\" type=\"text/css\">\n\n    <!-- CSS\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <link rel=\"stylesheet\" href=\"css/framework/normalize.css\">\n    <link rel=\"stylesheet\" href=\"css/framework/skeleton.css\">\n\n    <!-- Favicon\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <link rel=\"icon\" type=\"image/png\" href=\"images/favicon.png\">\n\n  </head>\n  <body>\n\n    <!-- Primary Page Layout\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n    <div class=\"container\">\n      <header class=\"row\">\n        <div class=\"one-half column\" style=\"margin-top: 25%\">\n          <h4>Basic Page</h4>\n          <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href=\"http://www.getskeleton.com\">Skeleton documentation</a>.</p>\n        </div>\n      </header>\n    </div>\n\n  <!-- End Document\n    –––––––––––––––––––––––––––––––––––––––––––––––––– -->\n  </body>\n</html>\n",
 			"file": "index.html",
+			"file_size": 2278,
+			"file_write_time": 131039075696931832,
 			"settings":
 			{
-				"buffer_size": 1506,
-				"line_ending": "Unix"
+				"buffer_size": 1607,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -40,19 +43,19 @@
 	"command_palette":
 	{
 		"height": 104.0,
-		"last_filter": "Package Control: insta",
+		"last_filter": "Package Control: install",
 		"selected_items":
 		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: insta",
 				"Package Control: Install Package"
 			],
 			[
 				"Package Control: inst",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: install",
 				"Package Control: Install Package"
 			],
 			[
@@ -81,13 +84,13 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Code/WynnSite",
-		"/D/Code/WynnSite/css",
-		"/D/Code/WynnSite/css/framework",
-		"/D/Code/WynnSite/images"
+		"/C/Code/WynnSite"
 	],
 	"file_history":
 	[
+		"/C/users/wynnd/appdata/local/temp/sublime-sftp-browse-1459801022/bertvm/home1/ugrad1/wdrahora/261/attacklab/target63/c_assembly.txt",
+		"/C/Users/wynnd/Desktop/attacklab_part2_solution.txt",
+		"/C/Users/wynnd/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/bertvm",
 		"/C/Users/wynnd_000/Desktop/main.s",
 		"/C/Users/wynnd_000/Desktop/main.c",
 		"/D/Code/WynnSite/README.md",
@@ -100,7 +103,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -114,6 +117,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"strncmp",
+			"hex",
+			"getbuf",
 			"_rsum_li"
 		],
 		"highlight": true,
@@ -138,22 +144,23 @@
 				{
 					"buffer": 0,
 					"file": "index.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1506,
+						"buffer_size": 1607,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1508,
+								1508
 							]
 						],
 						"settings":
 						{
+							"incomplete_sync": null,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -170,7 +177,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -207,11 +214,15 @@
 	{
 		"height": 0.0
 	},
+	"output.sftp":
+	{
+		"height": 94.0
+	},
 	"pinned_build_system": "",
 	"project": "WynnSite.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
